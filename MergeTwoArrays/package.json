@@ -1,0 +1,9 @@
+{
+  "name": "merge-two-arrays",
+  "version": "0.0.0",
+  "description": "MergeTwoArrays",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

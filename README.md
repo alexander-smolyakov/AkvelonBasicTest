@@ -10,7 +10,7 @@
 6. <a href="https://www.codewars.com/kata/576757b1df89ecf5bd00073b">Build Tower</a> (Solved on C++)
 7. <a href="https://www.codewars.com/kata/596f72bbe7cd7296d1000029">Array Deep Count</a> (Solved on C#)
 8. <a href="https://www.codewars.com/kata/5254ca2719453dcc0b00027d">Permutations</a> (Solved on C++)
-9. <a href="https://www.codewars.com/kata/52859abdf8fc1b12e0000141">Flatten a Nested Map</a>
+9. <a href="https://www.codewars.com/kata/52859abdf8fc1b12e0000141">Flatten a Nested Map</a> (Solved on JavaScript)
 10. <a href="https://www.codewars.com/kata/52b7ed099cdc285c300001cd">Sum of Intervals</a>
 11. <a href="https://www.codewars.com/kata/5b1b27c8f60e99a467000041">Anagram difference</a>
 12. <a href="https://www.codewars.com/kata/54d81488b981293527000c8f">Sum of Pairs</a>

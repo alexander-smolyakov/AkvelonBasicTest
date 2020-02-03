@@ -1,0 +1,9 @@
+{
+  "name": "flatten-anested-map",
+  "version": "0.0.0",
+  "description": "FlattenANestedMap",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

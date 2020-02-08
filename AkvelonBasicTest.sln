@@ -27,6 +27,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FlattenANestedMap", "Flatte
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SumOfIntervals", "SumOfIntervals\SumOfIntervals.vcxproj", "{141A3CC7-D60A-482C-BD54-D77F7129C279}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SumOfPairs", "SumOfPairs\SumOfPairs.pyproj", "{97918E5F-ADED-4A06-B560-EA48F15ADDD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -163,6 +165,12 @@ Global
 		{141A3CC7-D60A-482C-BD54-D77F7129C279}.Release|x64.Build.0 = Release|x64
 		{141A3CC7-D60A-482C-BD54-D77F7129C279}.Release|x86.ActiveCfg = Release|Win32
 		{141A3CC7-D60A-482C-BD54-D77F7129C279}.Release|x86.Build.0 = Release|Win32
+		{97918E5F-ADED-4A06-B560-EA48F15ADDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97918E5F-ADED-4A06-B560-EA48F15ADDD5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{97918E5F-ADED-4A06-B560-EA48F15ADDD5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{97918E5F-ADED-4A06-B560-EA48F15ADDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97918E5F-ADED-4A06-B560-EA48F15ADDD5}.Release|x64.ActiveCfg = Release|Any CPU
+		{97918E5F-ADED-4A06-B560-EA48F15ADDD5}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

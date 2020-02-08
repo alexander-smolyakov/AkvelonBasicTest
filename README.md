@@ -13,7 +13,7 @@
 9. <a href="https://www.codewars.com/kata/52859abdf8fc1b12e0000141">Flatten a Nested Map</a> (Solved on JavaScript)
 10. <a href="https://www.codewars.com/kata/52b7ed099cdc285c300001cd">Sum of Intervals</a> (Solved on C++)
 11. <a href="https://www.codewars.com/kata/5b1b27c8f60e99a467000041">Anagram difference</a>
-12. <a href="https://www.codewars.com/kata/54d81488b981293527000c8f">Sum of Pairs</a>
+12. <a href="https://www.codewars.com/kata/54d81488b981293527000c8f">Sum of Pairs</a> (Solved on Python)
 13. <a href="https://www.codewars.com/kata/52774a314c2333f0a7000688">Valid Parentheses</a>
 14. <a href="https://www.codewars.com/kata/5541f58a944b85ce6d00006a">Product of consecutive Fib numbers</a>
 15. <a href="https://www.codewars.com/kata/523a86aa4230ebb5420001e1">Where my anagrams at?</a>

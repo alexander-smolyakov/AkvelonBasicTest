@@ -33,6 +33,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ValidParentheses", "ValidPa
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WhereMyAnagramsAt", "WhereMyAnagramsAt\WhereMyAnagramsAt.pyproj", "{CC360CC6-A2DE-4AD5-A3E4-75C0117ED506}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LinkedListsSortedInsert", "LinkedListsSortedInsert\LinkedListsSortedInsert.pyproj", "{952FDCD6-EBB2-4A4E-B69A-1BDA6B73EDF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +189,12 @@ Global
 		{CC360CC6-A2DE-4AD5-A3E4-75C0117ED506}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC360CC6-A2DE-4AD5-A3E4-75C0117ED506}.Release|x64.ActiveCfg = Release|Any CPU
 		{CC360CC6-A2DE-4AD5-A3E4-75C0117ED506}.Release|x86.ActiveCfg = Release|Any CPU
+		{952FDCD6-EBB2-4A4E-B69A-1BDA6B73EDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952FDCD6-EBB2-4A4E-B69A-1BDA6B73EDF5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{952FDCD6-EBB2-4A4E-B69A-1BDA6B73EDF5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{952FDCD6-EBB2-4A4E-B69A-1BDA6B73EDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952FDCD6-EBB2-4A4E-B69A-1BDA6B73EDF5}.Release|x64.ActiveCfg = Release|Any CPU
+		{952FDCD6-EBB2-4A4E-B69A-1BDA6B73EDF5}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

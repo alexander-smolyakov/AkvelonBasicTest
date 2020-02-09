@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProductOfConsecutiveFibNumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeChecker", "TicTacToeChecker\TicTacToeChecker.csproj", "{8B7623A0-2FAE-4216-AF5C-45802FBF8855}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SimplePigLatin", "SimplePigLatin\SimplePigLatin.pyproj", "{78E1F2BF-0D00-4005-BDD2-6BC881C8C585}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -221,6 +223,12 @@ Global
 		{8B7623A0-2FAE-4216-AF5C-45802FBF8855}.Release|x64.Build.0 = Release|Any CPU
 		{8B7623A0-2FAE-4216-AF5C-45802FBF8855}.Release|x86.ActiveCfg = Release|Any CPU
 		{8B7623A0-2FAE-4216-AF5C-45802FBF8855}.Release|x86.Build.0 = Release|Any CPU
+		{78E1F2BF-0D00-4005-BDD2-6BC881C8C585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E1F2BF-0D00-4005-BDD2-6BC881C8C585}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{78E1F2BF-0D00-4005-BDD2-6BC881C8C585}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{78E1F2BF-0D00-4005-BDD2-6BC881C8C585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E1F2BF-0D00-4005-BDD2-6BC881C8C585}.Release|x64.ActiveCfg = Release|Any CPU
+		{78E1F2BF-0D00-4005-BDD2-6BC881C8C585}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

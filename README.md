@@ -23,7 +23,7 @@
 19. <a href="https://www.codewars.com/kata/583af10620dda4da270000c5">Merge two arrays</a> (Solved on JavaScript)
 20. <a href="https://www.codewars.com/kata/57e5279b7cf1aea5cf000359">Fun with trees: max sum</a>
 21. <a href="https://www.codewars.com/kata/55cc33e97259667a08000044">Linked Lists - Sorted Insert</a> (Solved on Python)
-22. <a href="https://www.codewars.com/kata/525caa5c1bf619d28c000335">Tic-Tac-Toe Checker</a>
+22. <a href="https://www.codewars.com/kata/525caa5c1bf619d28c000335">Tic-Tac-Toe Checker</a> (Solved on C#)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

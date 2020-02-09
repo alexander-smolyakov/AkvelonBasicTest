@@ -35,6 +35,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WhereMyAnagramsAt", "WhereM
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LinkedListsSortedInsert", "LinkedListsSortedInsert\LinkedListsSortedInsert.pyproj", "{952FDCD6-EBB2-4A4E-B69A-1BDA6B73EDF5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProductOfConsecutiveFibNumbers", "ProductOfConsecutiveFibNumbers\ProductOfConsecutiveFibNumbers.vcxproj", "{F3F69A03-EA58-4304-AC75-837DEC0D2991}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,16 @@ Global
 		{952FDCD6-EBB2-4A4E-B69A-1BDA6B73EDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{952FDCD6-EBB2-4A4E-B69A-1BDA6B73EDF5}.Release|x64.ActiveCfg = Release|Any CPU
 		{952FDCD6-EBB2-4A4E-B69A-1BDA6B73EDF5}.Release|x86.ActiveCfg = Release|Any CPU
+		{F3F69A03-EA58-4304-AC75-837DEC0D2991}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{F3F69A03-EA58-4304-AC75-837DEC0D2991}.Debug|x64.ActiveCfg = Debug|x64
+		{F3F69A03-EA58-4304-AC75-837DEC0D2991}.Debug|x64.Build.0 = Debug|x64
+		{F3F69A03-EA58-4304-AC75-837DEC0D2991}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3F69A03-EA58-4304-AC75-837DEC0D2991}.Debug|x86.Build.0 = Debug|Win32
+		{F3F69A03-EA58-4304-AC75-837DEC0D2991}.Release|Any CPU.ActiveCfg = Release|Win32
+		{F3F69A03-EA58-4304-AC75-837DEC0D2991}.Release|x64.ActiveCfg = Release|x64
+		{F3F69A03-EA58-4304-AC75-837DEC0D2991}.Release|x64.Build.0 = Release|x64
+		{F3F69A03-EA58-4304-AC75-837DEC0D2991}.Release|x86.ActiveCfg = Release|Win32
+		{F3F69A03-EA58-4304-AC75-837DEC0D2991}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

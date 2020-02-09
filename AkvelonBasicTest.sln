@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeChecker", "TicTacT
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SimplePigLatin", "SimplePigLatin\SimplePigLatin.pyproj", "{78E1F2BF-0D00-4005-BDD2-6BC881C8C585}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FunWithTrees(MaxSum)", "FunWithTrees(MaxSum)\FunWithTrees(MaxSum).vcxproj", "{4DAB083A-0665-4AD7-AE1F-2455E89478AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -229,6 +231,16 @@ Global
 		{78E1F2BF-0D00-4005-BDD2-6BC881C8C585}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78E1F2BF-0D00-4005-BDD2-6BC881C8C585}.Release|x64.ActiveCfg = Release|Any CPU
 		{78E1F2BF-0D00-4005-BDD2-6BC881C8C585}.Release|x86.ActiveCfg = Release|Any CPU
+		{4DAB083A-0665-4AD7-AE1F-2455E89478AC}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{4DAB083A-0665-4AD7-AE1F-2455E89478AC}.Debug|x64.ActiveCfg = Debug|x64
+		{4DAB083A-0665-4AD7-AE1F-2455E89478AC}.Debug|x64.Build.0 = Debug|x64
+		{4DAB083A-0665-4AD7-AE1F-2455E89478AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{4DAB083A-0665-4AD7-AE1F-2455E89478AC}.Debug|x86.Build.0 = Debug|Win32
+		{4DAB083A-0665-4AD7-AE1F-2455E89478AC}.Release|Any CPU.ActiveCfg = Release|Win32
+		{4DAB083A-0665-4AD7-AE1F-2455E89478AC}.Release|x64.ActiveCfg = Release|x64
+		{4DAB083A-0665-4AD7-AE1F-2455E89478AC}.Release|x64.Build.0 = Release|x64
+		{4DAB083A-0665-4AD7-AE1F-2455E89478AC}.Release|x86.ActiveCfg = Release|Win32
+		{4DAB083A-0665-4AD7-AE1F-2455E89478AC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

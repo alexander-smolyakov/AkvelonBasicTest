@@ -17,7 +17,7 @@
 13. <a href="https://www.codewars.com/kata/52774a314c2333f0a7000688">Valid Parentheses</a> (Solved on Python)
 14. <a href="https://www.codewars.com/kata/5541f58a944b85ce6d00006a">Product of consecutive Fib numbers</a> (Solved on C++)
 15. <a href="https://www.codewars.com/kata/523a86aa4230ebb5420001e1">Where my anagrams at?</a> (Solved on Python)
-16. <a href="https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1">Snail</a>
+16. <a href="https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1">Snail</a> (Solved on C++)
 17. <a href="https://www.codewars.com/kata/525f4206b73515bffb000b21">Adding Big Numbers</a> (Solved on C#) 
 18. <a href="https://www.codewars.com/kata/520b9d2ad5c005041100000f">Simple Pig Latin</a> (Solved on Python)
 19. <a href="https://www.codewars.com/kata/583af10620dda4da270000c5">Merge two arrays</a> (Solved on JavaScript)

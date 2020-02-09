@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FunWithTrees(MaxSum)", "Fun
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AnagramDifference", "AnagramDifference\AnagramDifference.pyproj", "{D2B9225F-D8C4-4630-A9B4-DDB6F5BF18C6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snail", "Snail\Snail.vcxproj", "{C6050CA6-A63E-4692-A9B9-0CC8DC2F8541}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,16 @@ Global
 		{D2B9225F-D8C4-4630-A9B4-DDB6F5BF18C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2B9225F-D8C4-4630-A9B4-DDB6F5BF18C6}.Release|x64.ActiveCfg = Release|Any CPU
 		{D2B9225F-D8C4-4630-A9B4-DDB6F5BF18C6}.Release|x86.ActiveCfg = Release|Any CPU
+		{C6050CA6-A63E-4692-A9B9-0CC8DC2F8541}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C6050CA6-A63E-4692-A9B9-0CC8DC2F8541}.Debug|x64.ActiveCfg = Debug|x64
+		{C6050CA6-A63E-4692-A9B9-0CC8DC2F8541}.Debug|x64.Build.0 = Debug|x64
+		{C6050CA6-A63E-4692-A9B9-0CC8DC2F8541}.Debug|x86.ActiveCfg = Debug|Win32
+		{C6050CA6-A63E-4692-A9B9-0CC8DC2F8541}.Debug|x86.Build.0 = Debug|Win32
+		{C6050CA6-A63E-4692-A9B9-0CC8DC2F8541}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C6050CA6-A63E-4692-A9B9-0CC8DC2F8541}.Release|x64.ActiveCfg = Release|x64
+		{C6050CA6-A63E-4692-A9B9-0CC8DC2F8541}.Release|x64.Build.0 = Release|x64
+		{C6050CA6-A63E-4692-A9B9-0CC8DC2F8541}.Release|x86.ActiveCfg = Release|Win32
+		{C6050CA6-A63E-4692-A9B9-0CC8DC2F8541}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
